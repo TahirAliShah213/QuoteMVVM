@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticeappLC</string>
+    <string name="i_m_selfish_">I\'m selfish, impatient and a little insecure</string>
+    <string name="quotify">QUOTIFY</string>
+    <string name="marilyn_monroe">― Marilyn Monroe</string>
+    <string name="todo">TODO</string>
+    <string name="floating">floating</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
